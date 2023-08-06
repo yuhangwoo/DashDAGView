@@ -1,7 +1,7 @@
 # DashDAGView
 DashDAGView is a website for visualizing the directed acyclic graph structure and the information of transactions in the DAG-FL.
 
-You should define anothor py file using zmq send message to 'Dash-DAG-View.py' through port '5411'. Example as follows
+You should define anothor py file that using zmq send message to 'Dash-DAG-View.py' through port '5411'. Example as follows
 
 ```
 import zmq
